@@ -1,5 +1,5 @@
-- 👋 Hola, soy Diego Breeze.
-- 👀 Estoy interesado en aprender informática, especificamente la parte del software (programación).
-- 🌱 Actualmente estoy estudiando en primer año de informática EMT (Escuela tecnologica) y se tecnologias a nivel junior/mid en Java.
-- 📫 Email de contacto: diegobreezeuy@gmail.com
-- 📞 Discord: diegotee#9331
+Soy estudiante de Ingeniería en Computación en la Universidad de la Republica.
+Mediante este metodo subiré proyectos o trabajos que haya realizado a lo largo de toda mi carrera (ya sea bachillerato o ingeniería)
+
+Email de contacto: diegobreezeuy@gmail.com
+LinkedIn: https://www.linkedin.com/in/diego-breeze-210669352/
